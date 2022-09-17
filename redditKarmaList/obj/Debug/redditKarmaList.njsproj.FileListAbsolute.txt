@@ -1,0 +1,3 @@
+C:\Users\dev\source\repos\alexkirwan29\redditKarmaList\redditKarmaList\obj\Debug\redditKarmaList.njsproj.AssemblyReference.cache
+C:\Users\dev\source\repos\alexkirwan29\redditKarmaList\redditKarmaList\obj\Debug\redditKarmaList.njsproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\alexkirwan29\redditKarmaList\redditKarmaList\bin\Microsoft.NodejsTools.WebRole.dll

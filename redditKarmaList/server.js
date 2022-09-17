@@ -1,8 +1,9 @@
 'use strict';
 var http = require('http');
 var port = process.env.PORT || 1337;
+var redditSecret = "oYYa71FYyh3ocHlq0inR7cE5dq_niQ";
 
 http.createServer(function (req, res) {
     res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end('Hello World\n');
+    res.end('hello world');
 }).listen(port);
