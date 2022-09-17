@@ -1,0 +1,9 @@
+{
+  "name": "reddit-karma-list",
+  "version": "0.0.0",
+  "description": "redditKarmaList",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
